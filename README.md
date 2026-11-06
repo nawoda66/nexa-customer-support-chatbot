@@ -4,6 +4,7 @@ Nexa is an AI customer support assistant for **ABC Electronics**, a sample elect
 
 Built with **Python**, **Streamlit** and the **Groq API** (`openai/gpt-oss-20b` model).
 
+**Live demo:** https://nexa-customer-support-chatbot.streamlit.app/
 
 ## Features
 
@@ -12,6 +13,7 @@ Built with **Python**, **Streamlit** and the **Groq API** (`openai/gpt-oss-20b` 
 - **Chat history:** start a new chat at any time and switch back to earlier chats from the sidebar.
 - **Stays on topic:** Nexa politely refuses questions that aren't about the store.
 - **Token budget:** older messages are dropped automatically when a conversation gets long, so requests stay within the model's limits.
+- **Usage limits:** message length, per-visitor and daily limits protect the free API quota in the public demo.
 - **Conversation logs:** every chat is saved with timestamps in the `logs/` folder.
 - **Two interfaces:** a web app (`app.py`) and a terminal version (`demo.py`).
 
