@@ -1,0 +1,8 @@
+[theme]
+primaryColor = "#2563EB"              # buttons, links, input focus border
+backgroundColor = "#FFFFFF"           # main page background
+secondaryBackgroundColor = "#F1F5F9"  # sidebar and chat input background
+textColor = "#000000"                 # main text
+font = "sans serif"                   # "sans serif", "serif" or "monospace"
+[client]
+toolbarMode = "minimal"

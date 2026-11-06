@@ -1,0 +1,38 @@
+COMPANY: ABC Electronics (sample data - replace with your real business details)
+
+ABOUT
+We sell mobile phones, laptops, headphones and accessories online and at our Colombo store.
+
+OPENING HOURS
+Monday to Saturday: 9:00 AM - 6:00 PM
+Sunday and public holidays: Closed
+
+CONTACT
+Phone: 011-1234567
+Email: support@abc-electronics.lk
+Store address: No. 25, Galle Road, Colombo 03
+
+DELIVERY
+- Colombo and suburbs: 1-2 working days
+- Other areas in Sri Lanka: 3-5 working days
+- Delivery fee: Rs. 400. Free delivery for orders over Rs. 10,000
+- Cash on delivery is available
+
+RETURNS AND REFUNDS
+- Items can be returned within 14 days of delivery with the receipt
+- Items must be unused and in the original packaging
+- Refunds are processed within 7 working days after we receive the item
+- Opened software, earphones and screen protectors cannot be returned for hygiene/licence reasons
+
+WARRANTY
+- Phones and laptops: 1 year company warranty
+- Accessories: 6 months warranty
+- Warranty does not cover physical damage, water damage or unauthorized repairs
+- To claim warranty, bring the item and the receipt to the store
+
+PAYMENT METHODS
+Cash on delivery, Visa/Mastercard, bank transfer, and installment plans (0% for 6 months) with selected bank credit cards.
+
+ORDER TRACKING
+Customers receive an SMS with a tracking link after their order is dispatched.
+For order status questions, ask for the order number and tell them a human agent will check it.
